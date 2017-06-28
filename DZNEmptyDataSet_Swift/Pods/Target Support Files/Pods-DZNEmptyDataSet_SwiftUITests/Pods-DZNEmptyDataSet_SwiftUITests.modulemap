@@ -1,0 +1,6 @@
+framework module Pods_DZNEmptyDataSet_SwiftUITests {
+  umbrella header "Pods-DZNEmptyDataSet_SwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
